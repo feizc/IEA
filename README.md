@@ -7,7 +7,9 @@ Generally, given a textual prompt or cliked region, SAM generated the masked reg
 
 Use ```python service.py``` to initialize the service. 
 
+## Generated Cases
 
+<img width="810" alt="case" src="https://user-images.githubusercontent.com/37614046/230707537-206c0714-de32-41cd-a277-203fd57cd300.png">
 
 
 # Reference 
