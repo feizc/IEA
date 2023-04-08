@@ -22,3 +22,5 @@ Use ```python service.py``` to initialize the service.
 [2] https://github.com/facebookresearch/segment-anything
 
 [3] https://github.com/maxi-w/CLIP-SAM
+
+[4] https://github.com/IDEA-Research/Grounded-Segment-Anything/
